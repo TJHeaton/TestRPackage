@@ -16,5 +16,5 @@
 #' @examples
 #' test_function(x = 5, y = 7)
 test_function <- function(x = 3, y = 4) {
-  return (x * y)
+  return (x * y * 2)
 }
